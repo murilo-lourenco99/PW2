@@ -1,6 +1,6 @@
 /* Estrutura de Repetição Do While
     Laço de repetição
-        Potencia e Fatorial
+        Calculo da Potencia e Fatorial
 */
 
 // Potencia

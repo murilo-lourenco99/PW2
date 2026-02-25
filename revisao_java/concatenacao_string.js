@@ -1,5 +1,5 @@
 /* Concatenação de String
-    Hello World e " Meu nome: " + nome
+    Hello World e Nome Completo
     */
 
 let hello = "Hello World";

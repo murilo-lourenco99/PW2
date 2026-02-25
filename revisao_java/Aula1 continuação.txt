@@ -20,4 +20,5 @@ Selecionar e resolver exercícios sobre os seguintes tópicos:
     Diretrizes Gerais:
 Podem fazer em duplas ou trios;
 A entrega deve ser realizada via gitHub, por isso postar apenas o link na atividade;
-Cada exercício deve estar em um arquivo diferente e devem conter uma descrição e sua resolução - não há necessidade de fazer entrada de dados.
+Cada exercício deve estar em um arquivo diferente e devem conter uma descrição e sua resolução
+ não há necessidade de fazer entrada de dados.

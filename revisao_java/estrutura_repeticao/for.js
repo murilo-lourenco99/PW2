@@ -10,7 +10,7 @@ for (i=1; i<=20; i=i+2) {
     console.log(i);
 }
 
-// Tabuada
+// Tabuada ate o 10
 let j;
 let expoente;
 let resultado = 0;

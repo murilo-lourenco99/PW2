@@ -1,10 +1,9 @@
 /* Estrutura de Repetição While (While Do)
     Laço de repetição
         Soma Cem e Tabuada
-    estrutura_repeticao_while.js
  */
 
-// Soma Cem
+// Soma de Cem numeros
 let i=1;
 let resultado = 0;
 
