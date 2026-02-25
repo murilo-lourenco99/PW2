@@ -1,0 +1,23 @@
+Selecionar e resolver exercícios sobre os seguintes tópicos:
+
+    Declaração de variáveis - pelo menos 3
+        let, const e var
+    Operadores Aritméticos - pelo menos 6
+        soma, subtração, divisão, multiplicação, resto da divisão, raiz e potencia
+    Operadores Relacionais - pelo menos 6
+        maior, menor, maior ou igual, menor ou igual, igual, diferente
+    Operadores Lógicos - pelo menos 3
+        e, ou , not
+    Estrutura Condicional - pelo menos 5
+        ternario 
+        if simples, if tradicional, if composto
+        switch
+    Laço de Repetição - pelo menos 5
+        while, doWhile, For, ForEach, Map
+    Vetores
+        busca, adição, remoção, acumulação
+    
+    Diretrizes Gerais:
+Podem fazer em duplas ou trios;
+A entrega deve ser realizada via gitHub, por isso postar apenas o link na atividade;
+Cada exercício deve estar em um arquivo diferente e devem conter uma descrição e sua resolução - não há necessidade de fazer entrada de dados.
