@@ -1,7 +1,7 @@
 /* Estrutura de dados Vetor ou Array
     Lógica para guardar mais de um valor em uma variável
         Soma dos vetores e Quadrado do vetor
- */
+*/
 
 // Soma dos vetores
 let a = [1, 2, 3, 4, 5];
